@@ -13,6 +13,12 @@ notas:
 http://localhost:8080/swagger-ui/index.html
 
 ---
+
+## Criada a rede para uso das aplicações
+```
+docker network create rede_pipeline_etl_python
+```
+---
 ## Rota POST
 http://localhost:8080/users
 
