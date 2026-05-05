@@ -10,7 +10,7 @@ notas:
 ---
 
 ## Interface Swagger da API
-http://localhost:8080/swagger-ui/index.html
+http://api-santander:8080/swagger-ui/index.html
 
 ---
 
@@ -20,7 +20,7 @@ docker network create rede_pipeline_etl_python
 ```
 ---
 ## Rota POST
-http://localhost:8080/users
+http://api-santander:8080/users
 
 ### Cliente 1
 ```json
@@ -120,7 +120,4 @@ http://localhost:8080/users
 ```
 ---
 ## Rota PUT
-http://localhost:8080/users/{id}
-
-
-
+http://api-santander:8080/users/{id}

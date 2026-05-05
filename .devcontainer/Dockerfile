@@ -7,5 +7,6 @@ RUN pip install --no-cache-dir \
     matplotlib \
     jupyter \
     luigi \
-    pyarrow
+    pyarrow \
+    google-genai
 
