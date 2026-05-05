@@ -11,6 +11,8 @@ Este projeto implementa um pipeline ETL (Extract, Transform, Load) utilizando Py
 
 O desafio foi desenvolvido como parte do **Bootcamp DIO - TOTVS - Fundamentos de Engenharia de Dados e Machine Learning**, utilizando uma API Java modificada (**Santander Dev Week 2023**) para simular dados de um ambiente bancário real.
 
+[Notebook Original (Código Fonte):](https://github.com/falvojr/santander-dev-week-2023/blob/master/SantanderDevWeek2023.ipynb) Projeto piloto original.
+
 ## 🎯 Objetivo
 
 Como cientista de dados de um grande banco, a tarefa é:
