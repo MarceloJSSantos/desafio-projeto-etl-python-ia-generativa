@@ -61,7 +61,7 @@ http://localhost:8080/users
 	"account": {
 	  "number": "11223-3",
 	  "agency": "0101",
-	  "balance": 1420.75,
+	  "balance": 11420.75,
 	  "limit": 1500.00
 	},
 	"card": {
@@ -77,8 +77,8 @@ http://localhost:8080/users
 	"account": {
 	  "number": "44556-7",
 	  "agency": "0005",
-	  "balance": 12.30,
-	  "limit": 200.00
+	  "balance": 1002.30,
+	  "limit": 600.00
 	},
 	"card": {
 	  "number": "**** **** **** 2211",
